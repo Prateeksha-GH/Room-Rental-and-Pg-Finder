@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+backend/.venv/
+backend/venv/
+
+# Python build
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Node
+**/node_modules/
+node_modules/
+
+# Env files
+.env
+
+backend/.env
+frontend/.env
+frontend/node_modules/

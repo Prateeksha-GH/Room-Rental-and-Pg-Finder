@@ -1,0 +1,8 @@
+"""Central place that names every Mongo collection used by the app."""
+USERS = "users"
+PROPERTIES = "properties"
+BOOKINGS = "bookings"
+REVIEWS = "reviews"
+WISHLISTS = "wishlists"
+NOTIFICATIONS = "notifications"
+CHATS = "chats"
